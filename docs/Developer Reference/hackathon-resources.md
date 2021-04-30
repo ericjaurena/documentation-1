@@ -18,7 +18,7 @@ Check out the <a href="/docs/example-projects"> example winners projects here. <
 Be sure to check the docs above for remix examples!
 - [Chainlink Brownie Starter Kit (Python)](https://github.com/smartcontractkit/chainlink-mix)
 - [Chainlink Truffle Starter Kit (Javascript)](https://github.com/smartcontractkit/truffle-starter-kit)
-- [Chainlink Hardhat Starter Kit (Javascript)](https://github.com/pappas999/hardhat-starter-kit)
+- [Chainlink Hardhat Starter Kit (Javascript)](https://github.com/smartcontractkit/hardhat-starter-kit)
 
 ## Support Communications 
 

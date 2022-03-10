@@ -247,7 +247,7 @@ You can also <a href="https://www.youtube.com/watch?v=WKvIGkBWRUA" target="_blan
 |Parameter|Value|
 |:---|:---|
 |`ETH_CHAIN_ID`|`42161`|
-|Address|[`0xf97f4df75117a78c1A5a0DBb814Af92458539FB4`](https://explorer.arbitrum.io/address/0xf97f4df75117a78c1A5a0DBb814Af92458539FB4)|
+|Address|[`0xf97f4df75117a78c1A5a0DBb814Af92458539FB4`](https://arbiscan.io/address/0xf97f4df75117a78c1a5a0dbb814af92458539fb4)|
 |Name|ChainLink Token on Arbitrum Mainnet|
 |Symbol|LINK|
 |Decimals|18|
